@@ -28,7 +28,7 @@ The `Code` folder contains five key Jupyter notebooks that support the data pipe
 - [Scraper.ipynb](https://github.com/hchen0628/MACSS_Thesis_hchen0628_public/blob/main/Code/Scraper.ipynb)  
   Implements scraping logic for collecting tweets, retweeter metadata, and user-level information using automated web interaction tools.
 - [Data Annotation.ipynb](https://github.com/hchen0628/MACSS_Thesis_hchen0628_public/blob/main/Code/Data%20Annotation.ipynb)  
-  Label tweets with dominant emotions and framing strategies using rule-based or GPT-assisted annotation.
+  Label tweets with dominant emotions and framing strategies using rule-based LLM-assisted annotation.
 - [Exploratory_Data_Analysis.ipynb](https://github.com/hchen0628/MACSS_Thesis_hchen0628_public/blob/main/Code/Exploratory_Data_Analysis.ipynb)  
   Conduct initial statistical summaries and visualizations to understand temporal and emotional trends in the dataset.
 - [Main_functions_and_Thesis_Visualization.ipynb](https://github.com/hchen0628/MACSS_Thesis_hchen0628_public/blob/main/Code/Main_functions_and_Thesis_Visualization.ipynb)  
