@@ -2,24 +2,24 @@
 Emotional Catalysts and Dynamic Networks: A Computational Analysis of Mobilization in Digital Activism.
 
 ## Abstract
- The murder of George Floyd served as a ‘focusing event,” an unexpected and tragic inci
-dent that captured public attention and reoriented ongoing discourse. In communication
- theory, such events often act as catalysts for rapid agenda shifts and heightened collec
-tive expression, particularly within digital publics. This study investigates both structural
- and content-level transformations in information diffusion on Twitter before and after the
- event. Results indicate that: (1) user engagement intensified post-event; tweets exhibited
- increased expressions of anger and sadness, and users who entered the conversation after
-ward were more responsive to emotionally charged narratives; (2) the underlying social
- network became more centralized, shifting from decentralized user-to-user interactions to
- an influencer-driven broadcast model; and (3) despite this centralization, weak unidirec
-tional ties across community boundaries played a critical role in bridging structural holes,
- enabling the wide dissemination of grievance-oriented, high-intensity emotional content, of
-ten framed diagnostically. Building on these findings, the study identifies a dual-pathway
- model of affective diffusion: Weak ties maximize emotional reach by spreading high-arousal
- messages across communities, while strong ties consolidate motivational framing. Together,
- these findings suggest that focusing events not only amplify user engagement but also fun
-damentally reshape the structural and affective dynamics of online information diffusion,
- embedding emotional expression within the topology of the network itself.
+The murder of George Floyd served as a ‘focusing event,” an unexpected and tragic incident
+that captured public attention and reoriented ongoing discourse. In communication theory,
+such events often catalyze rapid agenda shifts and heightened collective expression, partic-
+ularly within the digital public. This study investigates both structural and content-level
+transformations in information diffusion on Twitter before and after the event. Results indi-
+cate that: (1) user engagement intensified post-event; tweets exhibited increased expressions
+of anger and sadness, and users who entered the conversation afterward were more respon-
+sive to emotionally charged narratives; (2) the underlying social network became more cen-
+tralized, shifting from decentralized user-to-user interactions to an influencer-driven broad-
+cast model; and (3) despite this centralization, weak unidirectional ties across community
+boundaries played a critical role in bridging structural holes, enabling the wide dissemi-
+nation of grievance-oriented, high-intensity emotional content, often framed diagnostically.
+Building on these findings, the study identifies a dual-pathway model of affective diffusion:
+Weak ties maximize emotional reach by spreading high-arousal messages across communi-
+ties, while strong ties consolidate motivational framing. Together, these findings suggest
+that focusing events amplify user engagement and fundamentally reshape the structural and
+affective dynamics of online information diffusion, embedding emotional expression within
+the network’s topology.
 
 ## Folders under the repo
 
