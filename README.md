@@ -22,7 +22,6 @@ damentally reshape the structural and affective dynamics of online information d
  embedding emotional expression within the topology of the network itself.
 
 ## Folders under the repo
-## Code Submodules
 
 The `Code` folder contains five key Jupyter notebooks that support the data pipeline, analysis, and visualization for the thesis. Each notebook corresponds to a specific stage of the research workflow:
 
